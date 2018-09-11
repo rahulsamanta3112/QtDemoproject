@@ -1,0 +1,2 @@
+# QtDemoproject
+Qt Text  Editor
